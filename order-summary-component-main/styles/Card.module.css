@@ -1,0 +1,108 @@
+.card {
+    max-width: 450px;
+    background: url("/images/illustration-hero.svg") top center no-repeat;
+    background-size: 100%;
+    background-color: white;
+    box-shadow: 0px 25px 21px -9px rgba(56, 42, 225, 0.3);
+    padding: 49px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.card h1 {
+    padding-top: 190px;
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+
+.card p {
+    color: var(--desaturated-blue);
+    line-height: 1.5rem;
+    margin-bottom: 1.2em;
+}
+
+.price {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--very-pale-blue);
+    padding: 1.5em;
+    border-radius: 10px;
+}
+
+.price h2 {
+    font-size: 1rem;
+    font-weight: 900;
+    margin: 0;
+}
+
+.price p {
+    margin: 0;
+}
+
+.plan {
+    margin-right: 4em;
+}
+
+.card a {
+    font-weight: 700;
+    color: var(--bright-blue);
+    text-decoration: underline;
+}
+
+.card a:hover {
+    text-decoration: none;
+    opacity: 70%;
+}
+
+.card button {
+    border: none;
+    cursor: pointer;
+    font-weight: 900;
+    display: block;
+}
+
+.primary {
+    margin: 2em auto;
+    background-color: var(--bright-blue);
+    padding: 1em;
+    border-radius: 10px;
+    width: 100%;
+    color: white;
+    box-shadow: 0px 25px 21px -9px rgba(56, 42, 225, 0.4);
+}
+
+.primary:hover {
+    opacity: 70%;
+}
+
+.secondary {
+    background-color: transparent;
+    color: var(--desaturated-blue);
+    margin: auto;
+}
+
+.secondary:hover {
+    color: var(--dark-blue);
+}
+
+@media (max-width: 500px) {
+    .card {
+        max-width: 325px;
+        padding: 25px;
+    }
+    .card h1 {
+        padding-top: 150px;
+        font-size: 1.4rem;
+    }
+    .card p, .card h2, .card a {
+        font-size: 0.8rem;
+    }
+    .price {
+        padding: 1em;
+    }
+    .plan {
+        margin-right: 2em;
+    }
+}
