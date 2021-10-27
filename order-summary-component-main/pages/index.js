@@ -19,7 +19,7 @@ export default function Home() {
       
         <footer className={styles.attribution}>
           <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.</p> 
-          <p>Coded by <a href="#">janddrras</a>.</p> 
+          <p>Coded by <a href="https://github.com/janddrras/frontend-mentor/tree/master/order-summary-component-main" target="_blank">janddrras</a>.</p> 
         </footer>
 
     </>
