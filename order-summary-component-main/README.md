@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/janddrras/frontend-mentor/tree/master/order-summary-component-main)
-- Live Site URL: [](https://frontend-mentor-4lcx2y8hc-coffeeandcream.vercel.app)
+- Solution URL: [GitHub](https://github.com/janddrras/frontend-mentor/tree/master/order-summary-component-main)
+- Live Site URL: [Vercel](https://frontend-mentor-4lcx2y8hc-coffeeandcream.vercel.app)
 
 ### Built with
 
