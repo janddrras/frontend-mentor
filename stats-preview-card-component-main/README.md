@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/janddrras/frontend-mentor/tree/master/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://stats-preview-card-swart.vercel.app)
+- Solution URL: [GitHub](https://github.com/janddrras/frontend-mentor/tree/master/stats-preview-card-component-main)
+- Live Site URL: [Vercel](https://stats-preview-card-swart.vercel.app)
 
 ## My process
 
