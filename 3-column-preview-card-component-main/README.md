@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/janddrras/frontend-mentor/tree/master/3-column-preview-card-component-main)
+- Live Site URL: [Vercel](https://3-column-preview-card-sooty.vercel.app)
 
 ## My process
 
