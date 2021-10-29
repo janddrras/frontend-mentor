@@ -1,0 +1,14 @@
+.cardWrapper {
+    margin: 25px;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 950px) {
+    .cardWrapper {
+        flex-direction: row;
+        margin: 150px auto;
+    }
+}

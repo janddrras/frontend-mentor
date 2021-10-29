@@ -1,0 +1,15 @@
+.button {
+    background-color: var(--very-light-gray);
+    border: 2px solid var(--very-light-gray);
+    padding: 1rem 2rem;
+    font-family: "Lexend Deca", sans-serif;
+    letter-spacing: 0.5px;
+    border-radius: 2rem;
+    cursor: pointer;
+    transition: all 0.15s ease-in-out;
+}
+
+.button:hover {
+    background: transparent;
+    color: var(--very-light-gray) !important;
+}

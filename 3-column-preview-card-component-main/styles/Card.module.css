@@ -1,0 +1,24 @@
+.card {
+    padding: 50px;
+    max-width: 326px;
+}
+
+.card h1 {
+    font-family: "Big Shoulders Display", sans-serif;
+    color: var(--very-light-gray);
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.card p {
+    color: var(--transparent-white);
+    line-height: 1.5rem;
+    margin-bottom: 25px;
+}
+
+@media (min-width: 950px) {
+    .card p {
+        margin-bottom: 80px;
+    }
+}
